@@ -1,4 +1,4 @@
-# Complex Analysis
+# Data Exploration & Analysis
 
 This SQL project consists of analyzing the Unicorn dataset and answering the questions from the company. The company also asked for interactive dashboards from the dataset, which are available both in Excel and Tableau.
 
